@@ -9,7 +9,7 @@ I am interested in the design of learning and estimation algorithms with explici
 
 I am honored to be advised by [Ronitt Rubinfeld](https://people.csail.mit.edu/ronitt/) and [Jon Kelner](https://math.mit.edu/~kelner/).
 
-You can find my publications [on DBLP](https://dblp.uni-trier.de/pid/239/5088.html).
+You can find my publications [on dblp](https://dblp.uni-trier.de/pid/239/5088.html).
 
 <!--
 
