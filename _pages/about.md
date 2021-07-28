@@ -16,4 +16,4 @@ I'm currently a graduate student in the Department of Computer Science at Massac
 * Algorithms more generally
 
 
-If you would like to like to collaborate or discuss any of these topics feel free to reach out via email ! 
+Feel free to contact me via e-mail!
