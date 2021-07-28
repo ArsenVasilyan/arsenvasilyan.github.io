@@ -5,10 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-test
-Field Theories provide a unified description of disparate physical phenomenon ranging from Gravitation to the Boiling of Water. With help from my advisor [Prof. Clay Cordova](https://physics.uchicago.edu/people/profile/clay-cordova/) I hope to contribute to our understanding of these theories. 
+I am interested in the design of learning and estimation algorithms with explicit strong guarantees, which are also efficient in terms of run-time and data usage.
 
-You can find my publications (and all of the papers which cite them) [via this ADS search](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FApte%2C%20A%2FApte%2C%20Anuj%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FApte%2C%20A%2FApte%2C%20Anuj%22)&p_=0&q=author%3A%22Apte%2C%20Anuj%22&sort=date%20desc%2C%20bibcode%20desc). You will also find links to the arXiv versions of all of my papers via that search, or alternatively you can visit [arXiv](https://arxiv.org/search/?query=Apte%2C+Anuj&searchtype=author&abstracts=show&order=-announced_date_first&size=50). If you prefer, you can also usually find all of my papers at [Google Scholar](https://scholar.google.com/citations?hl=en&user=oX_oa18AAAAJ). 
+I am honored to be advised by [Ronitt Rubinfeld](https://people.csail.mit.edu/ronitt/) and [Jon Kelner](https://math.mit.edu/~kelner/).
+
+You can find my publications [on DBLP](https://dblp.uni-trier.de/pid/239/5088.html)
 
 <!--
 
