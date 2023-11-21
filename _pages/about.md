@@ -1,4 +1,17 @@
-I'm currently a graduate student in the Department of Computer Science at Massachusetts Institute of Technology. My scientific research interests include:
+---
+permalink: /
+title: "Welcome!"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
+
+I'm currently a PhD student in the Department of Computer Science at Massachusetts Institute of Technology, advised by Jonathan Kelner and Ronitt Rubinfeld. I am graduating in Spring 2024, and currently applying for postdocs.
+My scientific research interests include:
 * Computational learning theory
 * Distribution learning and testing
 * Computational statistics
