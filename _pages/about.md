@@ -49,7 +49,7 @@ Approximation, Randomization, and Combinatorial Optimization. Algorithms and Tec
 (**APPROX/RANDOM 2019**).
 
 ### Preprints:
-An Efficient Tester-Learner for Halfspaces
+Testable Learning with Distribution Shift
 Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan
 Preprint submitted to arXiv (2023).
 
