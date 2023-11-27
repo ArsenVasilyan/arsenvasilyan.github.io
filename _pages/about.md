@@ -49,6 +49,10 @@ Approximation, Randomization, and Combinatorial Optimization. Algorithms and Tec
 (**APPROX/RANDOM 2019**).
 
 ### Preprints:
+An Efficient Tester-Learner for Halfspaces
+Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan
+Preprint submitted to arXiv (2023).
+
 [_Local Lipschitz Filters for Bounded-Range Functions_](https://arxiv.org/abs/2308.14716)
 Jane Lange, Ephraim Linder, Sofya Raskhodnikova, Arsen Vasilyan
 Preprint arXiv:2308.14716 (2023).
