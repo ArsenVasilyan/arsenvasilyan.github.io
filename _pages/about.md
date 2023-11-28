@@ -49,9 +49,9 @@ Approximation, Randomization, and Combinatorial Optimization. Algorithms and Tec
 (**APPROX/RANDOM 2019**).
 
 ### Preprints:
-Testable Learning with Distribution Shift\
+[_Testable Learning with Distribution Shift_](https://arxiv.org/abs/2311.15142)\
 Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
-Preprint submitted to arXiv (2023).
+Preprint arXiv:2311.15142(2023).
 
 [_Local Lipschitz Filters for Bounded-Range Functions_](https://arxiv.org/abs/2308.14716)\
 Jane Lange, Ephraim Linder, Sofya Raskhodnikova, Arsen Vasilyan\
