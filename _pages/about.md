@@ -23,10 +23,10 @@ Feel free to contact me via e-mail!
 ### Publications:
 [_Tester-Learners for Halfspaces: Universal Algorithms_](https://arxiv.org/abs/2305.11765)\
 Aravind Gollakota, Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
-37th Conference on Neural Information Processing Systems (**NeurIPS 2023**, to appear).\
+37th Conference on Neural Information Processing Systems (**NeurIPS 2023**).\
 **Accepted for oral presentation.**
 
-[_Agnostic Proper Learning of Monotone Functions: Beyond the Black-box Correction Barrier_](https://arxiv.org/abs/2304.02700)\
+[_Agnostic Proper Learning of Monotone Functions: Beyond the Black-box Correction Barrier_](https://ieeexplore.ieee.org/document/10353158)\
 Jane Lange and Arsen Vasilyan\
 64th IEEE Symposium on Foundations of Computer Science (**FOCS 2023**).\
 **Invited to special issue.**
