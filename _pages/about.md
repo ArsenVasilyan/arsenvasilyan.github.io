@@ -21,6 +21,10 @@ My scientific research interests include:
 Feel free to contact me via e-mail!
 
 ### Publications:
+[_An Efficient Tester-Learner for Halfspaces_](https://arxiv.org/abs/2302.14853)\
+Aravind Gollakota, Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
+12th International Conference on Learning Representations (**ICLR 2024**), to appear.
+
 [_Tester-Learners for Halfspaces: Universal Algorithms_](https://arxiv.org/abs/2305.11765)\
 Aravind Gollakota, Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
 37th Conference on Neural Information Processing Systems (**NeurIPS 2023**).\
@@ -57,9 +61,7 @@ Preprint arXiv:2311.15142(2023).
 Jane Lange, Ephraim Linder, Sofya Raskhodnikova, Arsen Vasilyan\
 Preprint arXiv:2308.14716 (2023).
 
-[_An Efficient Tester-Learner for Halfspaces_](https://arxiv.org/abs/2302.14853)\
-Aravind Gollakota, Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
-Preprint arXiv:2302.14853 (2023).
+
 
 
 
