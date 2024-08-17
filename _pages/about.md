@@ -9,16 +9,14 @@ redirect_from:
 ---
 
 
-
-I'm currently a PhD student in the Department of Computer Science at Massachusetts Institute of Technology, advised by Jonathan Kelner and Ronitt Rubinfeld. I am graduating in Spring 2024, and currently applying for postdocs.
+I'm currently a research fellow at The Simons Institute for the Theory of Computing. Starting in January 2025, I will be a postdoctoral fellow at the Institute for Foundations of Machine Learning (UT Austin).
+I received my PhD from Massachusetts Institute of Technology, advised by Jonathan Kelner and Ronitt Rubinfeld. 
 My scientific research interests include:
 * Computational learning theory
-* Distribution learning and testing
 * Computational statistics
-* Sublinear algorithms
+* Distribution learning and testing
 
-
-Feel free to contact me via e-mail!
+Feel free to contact me via e-mail: MyFirstNameMyLastName at gmail.com
 
 ### Publications:
 
