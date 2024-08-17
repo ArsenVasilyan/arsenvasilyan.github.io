@@ -21,9 +21,20 @@ My scientific research interests include:
 Feel free to contact me via e-mail!
 
 ### Publications:
+
+[_Learning Intersections of Halfspaces with Distribution Shift: Improved Algorithms and SQ Lower Bounds_](https://proceedings.mlr.press/v247/klivans24b.html)\
+Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
+37th Conference on Learning Theory (**COLT 2024**).
+
+
+[_Testable Learning with Distribution Shift_](https://proceedings.mlr.press/v247/klivans24a.html)\
+Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
+37th Conference on Learning Theory (**COLT 2024**).
+
+
 [_An Efficient Tester-Learner for Halfspaces_](https://arxiv.org/abs/2302.14853)\
 Aravind Gollakota, Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
-12th International Conference on Learning Representations (**ICLR 2024**), to appear.
+12th International Conference on Learning Representations (**ICLR 2024**).
 
 [_Tester-Learners for Halfspaces: Universal Algorithms_](https://arxiv.org/abs/2305.11765)\
 Aravind Gollakota, Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
@@ -53,9 +64,16 @@ Approximation, Randomization, and Combinatorial Optimization. Algorithms and Tec
 (**APPROX/RANDOM 2019**).
 
 ### Preprints:
-[_Testable Learning with Distribution Shift_](https://arxiv.org/abs/2311.15142)\
-Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
-Preprint arXiv:2311.15142(2023).
+
+[_Tolerant Algorithms for Learning with Arbitrary Covariate Shift_](https://arxiv.org/abs/2406.02742)\
+Surbhi Goel, Abhishek Shetty, Konstantinos Stavropoulos, Arsen Vasilyan\
+Preprint arXiv:2406.02742 (2024).
+
+
+[_Efficient Discrepancy Testing for Learning with Distribution Shift_](https://arxiv.org/abs/2308.14716)\
+Gautam Chandrasekaran, Adam R. Klivans, Vasilis Kontonis, Konstantinos Stavropoulos, Arsen Vasilyan\
+Preprint arXiv:2406.09373 (2024).
+
 
 [_Local Lipschitz Filters for Bounded-Range Functions_](https://arxiv.org/abs/2308.14716)\
 Jane Lange, Ephraim Linder, Sofya Raskhodnikova, Arsen Vasilyan\
