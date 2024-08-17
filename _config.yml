@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Arsen Vasilyan"
 title_separator          : "-"
 name                     : &name "Arsen Vasilyan"
-description              : &description "Graduate Student in Computer Science at Massachusetts Institute of Technology"
+description              : &description "Research Fellow at Simons Institute for the Theory of Computing "
 url                      : "https://www.vasilyan.net" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arsenvasilyan.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Arsen Vasilyan"
   avatar           : "cropped_profile_git.jpg"
-  bio              : "Computer Science Grad Student"
-  location         : "Cambridge, USA"
-  employer         : "Massachusetts Institute of Technology"
+  bio              : "Research Fellow at Simons Institute for the Theory of Computing"
+  location         : "Berkeley, USA"
+  employer         : "UC Berkeley"
   ads              : 
   googlescholar    : 
   email            : 
