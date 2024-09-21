@@ -61,6 +61,11 @@ Ronitt Rubinfeld, Arsen Vasilyan\
 Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques\
 (**APPROX/RANDOM 2019**).
 
+### Doctoral thesis:
+[_Enhancing Learning Algorithms via Sublinear-Time Methods_](https://vasilyan.net/files/vasilyan-phd-eecs-2024-thesis.pdf)\
+Arsen Vasilyan, June 2024.
+
+
 ### Preprints:
 
 [_Tolerant Algorithms for Learning with Arbitrary Covariate Shift_](https://arxiv.org/abs/2406.02742)\
