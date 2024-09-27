@@ -20,6 +20,20 @@ Feel free to contact me via e-mail: MyFirstNameMyLastName at gmail.com
 
 ### Publications:
 
+[_Tolerant Algorithms for Learning with Arbitrary Covariate Shift_](https://arxiv.org/abs/2406.02742)\
+Surbhi Goel, Abhishek Shetty, Konstantinos Stavropoulos, Arsen Vasilyan\
+38th Conference on Neural Information Processing Systems (**NeurIPS 2024**, to appear).\
+**Accepted as a spotlight.**
+
+
+[_Efficient Discrepancy Testing for Learning with Distribution Shift_](https://arxiv.org/abs/2308.14716)\
+Gautam Chandrasekaran, Adam R. Klivans, Vasilis Kontonis, Konstantinos Stavropoulos, Arsen Vasilyan\
+38th Conference on Neural Information Processing Systems (**NeurIPS 2024**, to appear).
+
+[_Plant-and-Steal: Truthful Fair Allocations via Predictions_](https://arxiv.org/abs/2308.14716)\
+Ilan Reuven Cohen, Alon Eden, Talya Eden, Arsen Vasilyan\
+38th Conference on Neural Information Processing Systems (**NeurIPS 2024**, to appear).
+
 [_Learning Intersections of Halfspaces with Distribution Shift: Improved Algorithms and SQ Lower Bounds_](https://proceedings.mlr.press/v247/klivans24b.html)\
 Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
 37th Conference on Learning Theory (**COLT 2024**).
@@ -67,16 +81,6 @@ Arsen Vasilyan, June 2024.
 
 
 ### Preprints:
-
-[_Tolerant Algorithms for Learning with Arbitrary Covariate Shift_](https://arxiv.org/abs/2406.02742)\
-Surbhi Goel, Abhishek Shetty, Konstantinos Stavropoulos, Arsen Vasilyan\
-Preprint arXiv:2406.02742 (2024).
-
-
-[_Efficient Discrepancy Testing for Learning with Distribution Shift_](https://arxiv.org/abs/2308.14716)\
-Gautam Chandrasekaran, Adam R. Klivans, Vasilis Kontonis, Konstantinos Stavropoulos, Arsen Vasilyan\
-Preprint arXiv:2406.09373 (2024).
-
 
 [_Local Lipschitz Filters for Bounded-Range Functions_](https://arxiv.org/abs/2308.14716)\
 Jane Lange, Ephraim Linder, Sofya Raskhodnikova, Arsen Vasilyan\
