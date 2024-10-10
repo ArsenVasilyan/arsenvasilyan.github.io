@@ -20,6 +20,11 @@ Feel free to contact me via e-mail: MyFirstNameMyLastName at gmail.com
 
 ### Publications:
 
+[_Local Lipschitz Filters for Bounded-Range Functions_](https://arxiv.org/abs/2308.14716)\
+Jane Lange, Ephraim Linder, Sofya Raskhodnikova, Arsen Vasilyan\
+ACM-SIAM Symposium on Discrete Algorithms  (**SODA 2025**, to appear).\
+
+
 [_Tolerant Algorithms for Learning with Arbitrary Covariate Shift_](https://arxiv.org/abs/2406.02742)\
 Surbhi Goel, Abhishek Shetty, Konstantinos Stavropoulos, Arsen Vasilyan\
 38th Conference on Neural Information Processing Systems (**NeurIPS 2024**, to appear).\
@@ -80,11 +85,7 @@ Approximation, Randomization, and Combinatorial Optimization. Algorithms and Tec
 Arsen Vasilyan, June 2024.
 
 
-### Preprints:
 
-[_Local Lipschitz Filters for Bounded-Range Functions_](https://arxiv.org/abs/2308.14716)\
-Jane Lange, Ephraim Linder, Sofya Raskhodnikova, Arsen Vasilyan\
-Preprint arXiv:2308.14716 (2023).
 
 
 
