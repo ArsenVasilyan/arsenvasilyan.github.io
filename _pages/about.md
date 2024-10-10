@@ -22,7 +22,7 @@ Feel free to contact me via e-mail: MyFirstNameMyLastName at gmail.com
 
 [_Local Lipschitz Filters for Bounded-Range Functions_](https://arxiv.org/abs/2308.14716)\
 Jane Lange, Ephraim Linder, Sofya Raskhodnikova, Arsen Vasilyan\
-ACM-SIAM Symposium on Discrete Algorithms  (**SODA 2025**, to appear).\
+ACM-SIAM Symposium on Discrete Algorithms  (**SODA 2025**, to appear).
 
 
 [_Tolerant Algorithms for Learning with Arbitrary Covariate Shift_](https://arxiv.org/abs/2406.02742)\
