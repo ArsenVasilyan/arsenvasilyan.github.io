@@ -11,6 +11,9 @@ redirect_from:
 
 I'm currently a research fellow at The Simons Institute for the Theory of Computing. Starting in January 2025, I will be a postdoctoral fellow at the Institute for Foundations of Machine Learning (UT Austin).
 I received my PhD from Massachusetts Institute of Technology, advised by Jonathan Kelner and Ronitt Rubinfeld. 
+
+Before starting the PhD program, I completed my undergraduate studies at MIT with a major in Computer Science and a double minor in Physics and Philosophy. Earlier, I lived in Yerevan, Armenia, where I primarily competed in contests like the International Physics Olympiad (IPhO).
+
 My scientific research interests include:
 * Computational learning theory
 * Computational statistics
