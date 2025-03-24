@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm currently a research fellow at The Simons Institute for the Theory of Computing. Starting in January 2025, I will be a postdoctoral fellow at the Institute for Foundations of Machine Learning (UT Austin).
+I'm currently a postdoctoral fellow at the Institute for Foundations of Machine Learning (UT Austin). Previously, I was a research fellow at The Simons Institute for the Theory of Computing.  
 I received my PhD from Massachusetts Institute of Technology, advised by Jonathan Kelner and Ronitt Rubinfeld. 
 
 Before starting the PhD program, I completed my undergraduate studies at MIT with a major in Computer Science and a double minor in Physics and Philosophy. Earlier, I lived in Yerevan, Armenia, where I primarily competed in contests like the International Physics Olympiad (IPhO).
@@ -25,22 +25,22 @@ Feel free to contact me via e-mail: MyFirstNameMyLastName at gmail.com
 
 [_Local Lipschitz Filters for Bounded-Range Functions_](https://arxiv.org/abs/2308.14716)\
 Jane Lange, Ephraim Linder, Sofya Raskhodnikova, Arsen Vasilyan\
-ACM-SIAM Symposium on Discrete Algorithms  (**SODA 2025**, to appear).
+ACM-SIAM Symposium on Discrete Algorithms  (**SODA 2025**).
 
 
 [_Tolerant Algorithms for Learning with Arbitrary Covariate Shift_](https://arxiv.org/abs/2406.02742)\
 Surbhi Goel, Abhishek Shetty, Konstantinos Stavropoulos, Arsen Vasilyan\
-38th Conference on Neural Information Processing Systems (**NeurIPS 2024**, to appear).\
+38th Conference on Neural Information Processing Systems (**NeurIPS 2024**).\
 **Accepted as a spotlight.**
 
 
 [_Efficient Discrepancy Testing for Learning with Distribution Shift_](https://arxiv.org/abs/2308.14716)\
 Gautam Chandrasekaran, Adam R. Klivans, Vasilis Kontonis, Konstantinos Stavropoulos, Arsen Vasilyan\
-38th Conference on Neural Information Processing Systems (**NeurIPS 2024**, to appear).
+38th Conference on Neural Information Processing Systems (**NeurIPS 2024**).
 
 [_Plant-and-Steal: Truthful Fair Allocations via Predictions_](https://arxiv.org/abs/2308.14716)\
 Ilan Reuven Cohen, Alon Eden, Talya Eden, Arsen Vasilyan\
-38th Conference on Neural Information Processing Systems (**NeurIPS 2024**, to appear).
+38th Conference on Neural Information Processing Systems (**NeurIPS 2024**).
 
 [_Learning Intersections of Halfspaces with Distribution Shift: Improved Algorithms and SQ Lower Bounds_](https://proceedings.mlr.press/v247/klivans24b.html)\
 Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
