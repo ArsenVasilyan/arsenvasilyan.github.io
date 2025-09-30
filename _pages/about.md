@@ -19,9 +19,27 @@ My scientific research interests include:
 * Computational statistics
 * Distribution learning and testing
 
+See [_this blog post_](https://www.let-all.com/blog/2025/07/21/testing-assumptions-of-learning-algorithms/), if you want to know more about some of my recent work.
+
 Feel free to contact me via e-mail: MyFirstNameMyLastName at gmail.com
 
 ### Publications:
+
+[_Tolerant Algorithms for Learning with Arbitrary Covariate Shift_](https://arxiv.org/abs/2406.02742)\
+Adam R. Klivans, Konstantinos Stavropoulos, Kevin Tian, Arsen Vasilyan\
+39th Conference on Neural Information Processing Systems (**NeurIPS 2025**, to appear).\
+**Accepted as a spotlight.**
+
+[_Robust learning of halfspaces under log-concave marginals_](https://arxiv.org/abs/2406.02742)\
+Jane Lange, Arsen Vasilyan\
+39th Conference on Neural Information Processing Systems (**NeurIPS 2025**, to appear).\
+**Accepted as a spotlight.**
+
+
+[_Learning Constant-Depth Circuits in Malicious Noise Models_](https://arxiv.org/abs/2308.14716)\ 
+Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
+38th Conference on Learning Theory (**COLT 2025**).
+
 
 [_Local Lipschitz Filters for Bounded-Range Functions_](https://arxiv.org/abs/2308.14716)\
 Jane Lange, Ephraim Linder, Sofya Raskhodnikova, Arsen Vasilyan\
