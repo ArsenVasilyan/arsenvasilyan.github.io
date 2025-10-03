@@ -36,7 +36,7 @@ Jane Lange, Arsen Vasilyan\
 **Accepted as a spotlight.**
 
 
-[_Learning Constant-Depth Circuits in Malicious Noise Models_](https://raw.githubusercontent.com/mlresearch/v291/main/assets/klivans25a/klivans25a.pdf)\ 
+[_Learning Constant-Depth Circuits in Malicious Noise Models_](https://raw.githubusercontent.com/mlresearch/v291/main/assets/klivans25a/klivans25a.pdf)\
 Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
 38th Conference on Learning Theory (**COLT 2025**).
 
