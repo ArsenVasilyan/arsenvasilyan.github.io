@@ -25,18 +25,18 @@ Feel free to contact me via e-mail: MyFirstNameMyLastName at gmail.com
 
 ### Publications:
 
-[_Tolerant Algorithms for Learning with Arbitrary Covariate Shift_](https://arxiv.org/abs/2406.02742)\
+[_The Power of Iterative Filtering for Supervised Learning with (Heavy) Contamination_](https://arxiv.org/abs/2505.20177)\
 Adam R. Klivans, Konstantinos Stavropoulos, Kevin Tian, Arsen Vasilyan\
 39th Conference on Neural Information Processing Systems (**NeurIPS 2025**, to appear).\
 **Accepted as a spotlight.**
 
-[_Robust learning of halfspaces under log-concave marginals_](https://arxiv.org/abs/2406.02742)\
+[_Robust learning of halfspaces under log-concave marginals_](https://arxiv.org/abs/2505.13708)\
 Jane Lange, Arsen Vasilyan\
 39th Conference on Neural Information Processing Systems (**NeurIPS 2025**, to appear).\
 **Accepted as a spotlight.**
 
 
-[_Learning Constant-Depth Circuits in Malicious Noise Models_](https://arxiv.org/abs/2308.14716)\ 
+[_Learning Constant-Depth Circuits in Malicious Noise Models_](https://raw.githubusercontent.com/mlresearch/v291/main/assets/klivans25a/klivans25a.pdf)\ 
 Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
 38th Conference on Learning Theory (**COLT 2025**).
 
