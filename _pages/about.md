@@ -41,22 +41,22 @@ Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
 38th Conference on Learning Theory (**COLT 2025**).
 
 
-[_Local Lipschitz Filters for Bounded-Range Functions_](https://arxiv.org/abs/2308.14716)\
+[_Local Lipschitz Filters for Bounded-Range Functions_](https://epubs.siam.org/doi/10.1137/1.9781611978322.93)\
 Jane Lange, Ephraim Linder, Sofya Raskhodnikova, Arsen Vasilyan\
 ACM-SIAM Symposium on Discrete Algorithms  (**SODA 2025**).
 
 
-[_Tolerant Algorithms for Learning with Arbitrary Covariate Shift_](https://arxiv.org/abs/2406.02742)\
+[_Tolerant Algorithms for Learning with Arbitrary Covariate Shift_](https://dl.acm.org/doi/10.5555/3737916.3741885)\
 Surbhi Goel, Abhishek Shetty, Konstantinos Stavropoulos, Arsen Vasilyan\
 38th Conference on Neural Information Processing Systems (**NeurIPS 2024**).\
 **Accepted as a spotlight.**
 
 
-[_Efficient Discrepancy Testing for Learning with Distribution Shift_](https://arxiv.org/abs/2308.14716)\
+[_Efficient Discrepancy Testing for Learning with Distribution Shift_](https://dl.acm.org/doi/10.5555/3737916.3742277)\
 Gautam Chandrasekaran, Adam R. Klivans, Vasilis Kontonis, Konstantinos Stavropoulos, Arsen Vasilyan\
 38th Conference on Neural Information Processing Systems (**NeurIPS 2024**).
 
-[_Plant-and-Steal: Truthful Fair Allocations via Predictions_](https://arxiv.org/abs/2308.14716)\
+[_Plant-and-Steal: Truthful Fair Allocations via Predictions_](https://dl.acm.org/doi/10.5555/3737916.3741409)\
 Ilan Reuven Cohen, Alon Eden, Talya Eden, Arsen Vasilyan\
 38th Conference on Neural Information Processing Systems (**NeurIPS 2024**).
 
@@ -70,11 +70,11 @@ Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
 37th Conference on Learning Theory (**COLT 2024**).
 
 
-[_An Efficient Tester-Learner for Halfspaces_](https://arxiv.org/abs/2302.14853)\
+[_An Efficient Tester-Learner for Halfspaces_](https://openreview.net/forum?id=3Da0eESvN1)\
 Aravind Gollakota, Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
 12th International Conference on Learning Representations (**ICLR 2024**).
 
-[_Tester-Learners for Halfspaces: Universal Algorithms_](https://arxiv.org/abs/2305.11765)\
+[_Tester-Learners for Halfspaces: Universal Algorithms_](https://dl.acm.org/doi/10.5555/3666122.3666565)\
 Aravind Gollakota, Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
 37th Conference on Neural Information Processing Systems (**NeurIPS 2023**).\
 **Accepted for oral presentation.**
@@ -100,6 +100,16 @@ Ronitt Rubinfeld, Arsen Vasilyan\
 Ronitt Rubinfeld, Arsen Vasilyan\
 Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques\
 (**APPROX/RANDOM 2019**).
+
+### Pre-Prints:
+
+[_Testing Noise Assumptions of Learning Algorithms_](https://arxiv.org/abs/2501.09189)\
+Surbhi Goel, Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
+Preprint arXiv:2501.09189 (2025).
+
+[_Testable algorithms for approximately counting edges and triangles in sublinear time and space_](https://arxiv.org/abs/2509.20351)\
+Talya Eden, Ronitt Rubinfeld, Arsen Vasilyan\
+Preprint arXiv:2509.20351. (2025)
 
 ### Doctoral thesis:
 [_Enhancing Learning Algorithms via Sublinear-Time Methods_](https://vasilyan.net/files/vasilyan-phd-eecs-2024-thesis.pdf)\
