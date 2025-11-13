@@ -41,7 +41,7 @@ Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
 38th Conference on Learning Theory (**COLT 2025**).
 
 
-[_Local Lipschitz Filters for Bounded-Range Functions_](https://epubs.siam.org/doi/10.1137/1.9781611978322.93), [_**ArXiv**_](https://arxiv.org/abs/2308.14716)\
+Local Lipschitz Filters for Bounded-Range Functions, [_**ArXiv**_](https://arxiv.org/abs/2308.14716)\
 Jane Lange, Ephraim Linder, Sofya Raskhodnikova, Arsen Vasilyan\
 ACM-SIAM Symposium on Discrete Algorithms  (**SODA 2025**).
 
@@ -79,16 +79,16 @@ Aravind Gollakota, Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
 37th Conference on Neural Information Processing Systems (**NeurIPS 2023**).\
 **Accepted for oral presentation.**
 
-[_Agnostic Proper Learning of Monotone Functions: Beyond the Black-box Correction Barrier_](https://ieeexplore.ieee.org/document/10353158)\
+Agnostic Proper Learning of Monotone Functions: Beyond the Black-box Correction Barrier, [_**ArXiv**_](https://arxiv.org/abs/2304.02700)\
 Jane Lange and Arsen Vasilyan\
 64th IEEE Symposium on Foundations of Computer Science (**FOCS 2023**).\
 **Invited to special issue.**
 
-[_Testing Distributional Assumptions of Learning Algorithms_](https://dl.acm.org/doi/10.1145/3564246.3585117)\
+Testing Distributional Assumptions of Learning Algorithms [_**ArXiv**_](https://arxiv.org/abs/2204.07196)\
 Ronitt Rubinfeld, Arsen Vasilyan\
 55th ACM Symposium on Theory of Computing (**STOC 2023**)
 
-[_Properly Learning Monotone Functions via Local Reconstruction_](https://ieeexplore.ieee.org/document/9996614)\
+Properly Learning Monotone Functions via Local Reconstruction [_**ArXiv**_](https://arxiv.org/abs/2204.11894)\
 Jane Lange, Ronitt Rubinfeld, Arsen Vasilyan\
 63rd IEEE Symposium on Foundations of Computer Science (**FOCS 2022**)
 
