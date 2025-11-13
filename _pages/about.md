@@ -41,7 +41,7 @@ Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
 38th Conference on Learning Theory (**COLT 2025**).
 
 
-[_Local Lipschitz Filters for Bounded-Range Functions_](https://epubs.siam.org/doi/10.1137/1.9781611978322.93)\
+[_Local Lipschitz Filters for Bounded-Range Functions_](https://epubs.siam.org/doi/10.1137/1.9781611978322.93), [_ArXiv_](https://arxiv.org/abs/2308.14716)\
 Jane Lange, Ephraim Linder, Sofya Raskhodnikova, Arsen Vasilyan\
 ACM-SIAM Symposium on Discrete Algorithms  (**SODA 2025**).
 
