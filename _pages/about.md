@@ -41,22 +41,22 @@ Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
 38th Conference on Learning Theory (**COLT 2025**).
 
 
-[_Local Lipschitz Filters for Bounded-Range Functions_](https://epubs.siam.org/doi/10.1137/1.9781611978322.93), [_ArXiv_](https://arxiv.org/abs/2308.14716)\
+[_Local Lipschitz Filters for Bounded-Range Functions_](https://epubs.siam.org/doi/10.1137/1.9781611978322.93), [_**ArXiv**_](https://arxiv.org/abs/2308.14716)\
 Jane Lange, Ephraim Linder, Sofya Raskhodnikova, Arsen Vasilyan\
 ACM-SIAM Symposium on Discrete Algorithms  (**SODA 2025**).
 
 
-[_Tolerant Algorithms for Learning with Arbitrary Covariate Shift_](https://dl.acm.org/doi/10.5555/3737916.3741885)\
+[_Tolerant Algorithms for Learning with Arbitrary Covariate Shift_](https://proceedings.neurips.cc/paper_files/paper/2024/file/e209210eae282e23e305df49fbb2769c-Paper-Conference.pdf)\
 Surbhi Goel, Abhishek Shetty, Konstantinos Stavropoulos, Arsen Vasilyan\
 38th Conference on Neural Information Processing Systems (**NeurIPS 2024**).\
 **Accepted as a spotlight.**
 
 
-[_Efficient Discrepancy Testing for Learning with Distribution Shift_](https://dl.acm.org/doi/10.5555/3737916.3742277)\
+[_Efficient Discrepancy Testing for Learning with Distribution Shift_](https://proceedings.neurips.cc/paper_files/paper/2024/file/f8238b414fce7d91fedb896253545300-Paper-Conference.pdf)\
 Gautam Chandrasekaran, Adam R. Klivans, Vasilis Kontonis, Konstantinos Stavropoulos, Arsen Vasilyan\
 38th Conference on Neural Information Processing Systems (**NeurIPS 2024**).
 
-[_Plant-and-Steal: Truthful Fair Allocations via Predictions_](https://dl.acm.org/doi/10.5555/3737916.3741409)\
+[_Plant-and-Steal: Truthful Fair Allocations via Predictions_](https://proceedings.neurips.cc/paper_files/paper/2024/file/c6e03e056d9ae8e852ec3100dbe75357-Paper-Conference.pdf)\
 Ilan Reuven Cohen, Alon Eden, Talya Eden, Arsen Vasilyan\
 38th Conference on Neural Information Processing Systems (**NeurIPS 2024**).
 
