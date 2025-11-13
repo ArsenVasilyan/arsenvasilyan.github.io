@@ -74,12 +74,12 @@ Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
 Aravind Gollakota, Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
 12th International Conference on Learning Representations (**ICLR 2024**).
 
-[_Tester-Learners for Halfspaces: Universal Algorithms_](https://dl.acm.org/doi/10.5555/3666122.3666565)\
+[_Tester-Learners for Halfspaces: Universal Algorithms_](https://proceedings.neurips.cc/paper_files/paper/2023/file/204d9a9a4816a45909010587ffc3204b-Paper-Conference.pdf)\
 Aravind Gollakota, Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
 37th Conference on Neural Information Processing Systems (**NeurIPS 2023**).\
 **Accepted for oral presentation.**
 
-Agnostic Proper Learning of Monotone Functions: Beyond the Black-box Correction Barrier, [_**ArXiv**_](https://arxiv.org/abs/2304.02700)\
+Agnostic Proper Learning of Monotone Functions: Beyond the Black-box Correction Barrier [_**ArXiv**_](https://arxiv.org/abs/2304.02700)\
 Jane Lange and Arsen Vasilyan\
 64th IEEE Symposium on Foundations of Computer Science (**FOCS 2023**).\
 **Invited to special issue.**
