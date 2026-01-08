@@ -25,14 +25,23 @@ Feel free to contact me via e-mail: MyFirstNameMyLastName at gmail.com
 
 ### Publications:
 
+[_Testing Noise Assumptions of Learning Algorithms_](https://arxiv.org/abs/2501.09189)\
+Surbhi Goel, Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
+In submission, arXiv:2501.09189 (2025).\
+**Best Paper Award at Reliable ML from Unreliable Data Workshop @ NeurIPS 2025.**
+
+[_Testable algorithms for approximately counting edges and triangles in sublinear time and space_](https://arxiv.org/abs/2509.20351)\
+Talya Eden, Ronitt Rubinfeld, Arsen Vasilyan\
+17th Innovations in Theoretical Computer Science Conference (**ITCS 2026**, to appear)
+
 [_The Power of Iterative Filtering for Supervised Learning with (Heavy) Contamination_](https://arxiv.org/abs/2505.20177)\
 Adam R. Klivans, Konstantinos Stavropoulos, Kevin Tian, Arsen Vasilyan\
-39th Conference on Neural Information Processing Systems (**NeurIPS 2025**, to appear).\
+39th Conference on Neural Information Processing Systems (**NeurIPS 2025**).\
 **Accepted as a spotlight.**
 
 [_Robust learning of halfspaces under log-concave marginals_](https://arxiv.org/abs/2505.13708)\
 Jane Lange, Arsen Vasilyan\
-39th Conference on Neural Information Processing Systems (**NeurIPS 2025**, to appear).\
+39th Conference on Neural Information Processing Systems (**NeurIPS 2025**).\
 **Accepted as a spotlight.**
 
 
@@ -101,15 +110,7 @@ Ronitt Rubinfeld, Arsen Vasilyan\
 Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques\
 (**APPROX/RANDOM 2019**).
 
-### Pre-Prints:
 
-[_Testing Noise Assumptions of Learning Algorithms_](https://arxiv.org/abs/2501.09189)\
-Surbhi Goel, Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
-Preprint arXiv:2501.09189 (2025).
-
-[_Testable algorithms for approximately counting edges and triangles in sublinear time and space_](https://arxiv.org/abs/2509.20351)\
-Talya Eden, Ronitt Rubinfeld, Arsen Vasilyan\
-Preprint arXiv:2509.20351. (2025)
 
 ### Doctoral thesis:
 [_Enhancing Learning Algorithms via Sublinear-Time Methods_](https://vasilyan.net/files/vasilyan-phd-eecs-2024-thesis.pdf)\
