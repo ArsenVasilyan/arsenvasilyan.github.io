@@ -25,6 +25,11 @@ Feel free to contact me via e-mail: MyFirstNameMyLastName at gmail.com
 
 ### Publications:
 
+A Fully Polynomial-Time Algorithm for Robustly Learning Halfspaces over the Hypercube, [_**ArXiv**_](https://arxiv.org/abs/2511.07244)\
+Gautam Chandrasekaran, Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
+58th ACM Symposium on Theory of Computing (**STOC 2026**, to appear)
+
+
 [_Testing Noise Assumptions of Learning Algorithms_](https://arxiv.org/abs/2501.09189)\
 Surbhi Goel, Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan\
 In submission, arXiv:2501.09189 (2025).\
@@ -93,11 +98,11 @@ Jane Lange and Arsen Vasilyan\
 64th IEEE Symposium on Foundations of Computer Science (**FOCS 2023**).\
 **Invited to special issue.**
 
-Testing Distributional Assumptions of Learning Algorithms [_**ArXiv**_](https://arxiv.org/abs/2204.07196)\
+Testing Distributional Assumptions of Learning Algorithms, [_**ArXiv**_](https://arxiv.org/abs/2204.07196)\
 Ronitt Rubinfeld, Arsen Vasilyan\
 55th ACM Symposium on Theory of Computing (**STOC 2023**)
 
-Properly Learning Monotone Functions via Local Reconstruction [_**ArXiv**_](https://arxiv.org/abs/2204.11894)\
+Properly Learning Monotone Functions via Local Reconstruction, [_**ArXiv**_](https://arxiv.org/abs/2204.11894)\
 Jane Lange, Ronitt Rubinfeld, Arsen Vasilyan\
 63rd IEEE Symposium on Foundations of Computer Science (**FOCS 2022**)
 
